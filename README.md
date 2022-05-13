@@ -1,4 +1,4 @@
-# Eye-Movement
+# Eye Movement
 
 ## Description
 <p>The two eye elements follow the mouse position on the screen. The mouse movement event is used to update the position of the eye elements</p>
